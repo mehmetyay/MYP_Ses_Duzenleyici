@@ -1,0 +1,19 @@
+Copyright (c) 2025 Mehmet Yay
+
+Tüm hakları saklıdır.
+
+Bu yazılım yalnızca kişisel ve eğitim amaçlı kullanım içindir. Kodun veya herhangi bir bileşeninin izinsiz olarak:
+
+- Kopyalanması,
+- Dağıtılması,
+- Ticari amaçla kullanılması,
+- Değiştirilerek paylaşılması
+
+yasaktır.
+
+Yazılımın herhangi bir kısmı, yazarın yazılı izni olmaksızın ticari ürünlere entegre edilemez veya başka projelere aktarılamaz.
+
+Herhangi bir öneri, geri bildirim veya ticari kullanım talebi için geliştirici ile iletişime geçiniz.
+
+İletişim: mehmetyay.dev [at] email.com
+
